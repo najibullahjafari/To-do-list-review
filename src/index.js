@@ -124,7 +124,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     return item;
   };
-  
   const renderTasks = () => {
     todoList.innerHTML = '';
 
